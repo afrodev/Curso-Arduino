@@ -21,11 +21,13 @@ O _software_ é uma IDE, que é executado em um computador onde é feita a progr
 
 Existem [diversas](http://arduino.cc/en/Main/Products) placas oficiais de Arduino e muitas outras não oficiais. Vamos abordar a placa Arduino Uno nesse artigo. A seguir é exibida a placa [Arduino Uno](http://arduino.cc/en/Main/ArduinoBoardUno) REV3:
 
-<div id="attachment_2894" style="width: 325px" class="wp-caption aligncenter">[![Placa Arduino UNO](http://www.embarcados.com.br/wp-content/uploads/2013/11/imagem_01.png)](http://www.embarcados.com.br/wp-content/uploads/2013/11/imagem_01.png)
+
+[![Placa Arduino UNO](http://www.intorobotics.com/wp-content/uploads/2013/06/dsku-fidhsfudhsfdsfidhsi00001.jpg)](http://www.intorobotics.com/wp-content/uploads/2013/06/dsku-fidhsfudhsfdsfidhsi00001.jpg)
+
+
 
 Placa Arduino UNO
 
-</div>
 
 Conforme visto na imagem acima a placa Arduino UNO possui diversos conectores que servem para interface com o mundo externo. Vejamos como estão organizados os pinos na placa:
 
@@ -159,6 +161,9 @@ A referência da linguagem Arduino pode ser acessada através do menu <help>:
 
 [![imagem_08](http://www.embarcados.com.br/wp-content/uploads/2013/11/imagem_08.png)](http://www.embarcados.com.br/wp-content/uploads/2013/11/imagem_08.png)
 
-Testar outros exemplos básicos, é um bom começo para aprender mais sobre a plataforma Arduino.
 
 </div>
+
+
+Retirado de [Embarcados](http://www.embarcados.com.br/arduino-primeiros-passos/)
+<div style="display: block" class="creative-commons-licence-box"><a rel="license" target="_blank" href="http://creativecommons.org/licenses/by-sa/4.0/" class="fusion-no-lightbox"><img alt="Licença Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a><br><em><a href="http://www.embarcados.com.br/arduino-primeiros-passos/">Arduino - Primeiros Passos</a></em> por <em>Fábio Souza</em>. Esta obra está sob a licença <a rel="license" target="_blank" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional</a>.</div>
